@@ -1,6 +1,6 @@
-# fft_impl2
+# fft-impl2
 
-FFT implementation — Cooley-Tukey, inverse FFT, convolution
+Fast Fourier Transform with inverse FFT, convolution, and spectral analysis
 
 ## Usage
 
@@ -10,10 +10,5 @@ python3 fft_impl2.py --help
 
 ## Features
 
-- Single file, zero dependencies
-- Python 3.8+ compatible
-- CLI interface
-
-## License
-
-MIT
+- Zero dependencies (Python 3.8+ stdlib only)
+- Single file implementation
